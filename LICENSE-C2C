@@ -1,0 +1,83 @@
+PX Win Tool — C2C License
+Copyright (c) 2026 PIXELANCE YAZILIM ve MÜHENDİSLİK LTD. ŞTİ.
+
+This license governs PXWinTool-Setup.exe and the PX Win Tool software
+distributed via GitHub Releases (the "Software"). This repository does
+not contain source code.
+
+Contact: info@pixelance.com.tr
+Website: https://pixelance.com.tr
+
+==============================================================================
+1. C2C / NON-COMMERCIAL USE — FREE
+==============================================================================
+
+Consumer-to-consumer (C2C) and other non-commercial use of the Software
+is free of charge.
+
+You may install and use the Software without a paid license if your use
+is solely:
+
+  - personal or household use;
+  - consumer-to-consumer (C2C) use that is not part of a trade,
+    profession, or business;
+  - private evaluation or education that does not generate revenue
+    and is not performed for a company or organization.
+
+Non-commercial use does not include use by or for a company, public
+institution, or other organization, or any use that is intended to
+produce commercial advantage or monetary compensation.
+
+==============================================================================
+2. COMMERCIAL LICENSE
+==============================================================================
+
+Any commercial use requires a separate commercial license from
+PIXELANCE YAZILIM ve MÜHENDİSLİK LTD. ŞTİ.
+
+Commercial use includes, without limitation:
+
+  - use in or for a business, trade, profession, or organization;
+  - use that generates or is intended to generate revenue, fees,
+    or other commercial advantage;
+  - internal enterprise, production, or operational use;
+  - bundling, resale, OEM, or redistribution of the Software
+    (or access to it) as part of a product or paid service.
+
+To obtain a commercial license, contact: info@pixelance.com.tr
+
+Until a commercial license is granted in writing, commercial use
+of the Software is not permitted.
+
+==============================================================================
+3. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+==============================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, PIXELANCE YAZILIM
+ve MÜHENDİSLİK LTD. ŞTİ. AND ITS CONTRIBUTORS SHALL NOT BE LIABLE FOR
+ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE,
+INCLUDING WITHOUT LIMITATION ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR LOSS OF DATA, PROFITS,
+OR BUSINESS INTERRUPTION, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.
+
+==============================================================================
+4. OTHER TERMS
+==============================================================================
+
+Installation or use of the Software also constitutes acceptance of
+the End User License Agreement (EULA) in this repository.
+
+The MIT License in LICENSE applies to the textual materials in this
+repository. The installer binary published on GitHub Releases is
+governed by this C2C License and the EULA.
+
+This license does not grant rights to the source code of the Software.
+Source code is not published in this repository.
